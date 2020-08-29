@@ -44,3 +44,7 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+ScreenShot
+![Screenshot (119)](https://user-images.githubusercontent.com/62157127/91641886-28439b00-e9f5-11ea-9d9a-66a056cd89ec.png)
+
